@@ -1,0 +1,43 @@
+img{
+    width: 50px;
+    height: 50px;
+}
+table{
+    width: 30%;
+    height: 40px;
+    border-collapse: collapse;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: burlywood;
+    font-size: 48px;
+}
+h1:hover{
+    cursor: pointer;
+    color: cornflowerblue;
+    font-size: 55px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+th,td{
+    width: 250px;
+    height: 100px;
+    border: 1px solid black ;
+}
+td:hover{
+    cursor: pointer;
+    font-size: 25px;
+    border: 3px solid cadetblue;
+    color: cornsilk;
+    background:linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(111,0,255,1) 18%, rgba(0,168,255,0.8631827731092436) 38%, rgba(0,153,48,1) 55%, rgba(0,48,255,1) 75%, rgba(128,0,255,1) 100%); ;
+}
+body{
+    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(111,0,255,1) 18%, rgba(255,244,0,0.8631827731092436) 38%, rgba(0,153,48,1) 55%, rgba(0,48,255,1) 75%, rgba(128,0,255,1) 100%);
+}
+th:hover{
+    cursor: pointer;
+    font-size: 35px;
+    border: 3px solid wheat(0, 255, 170);
+    color: yellowgreen(255, 0, 0);
+    background:  linear-gradient(349deg, rgba(255,244,82,1) 0%, rgba(207,62,101,1) 83%);
+}

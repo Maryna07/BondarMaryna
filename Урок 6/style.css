@@ -1,0 +1,12 @@
+.header,
+.main {
+    width: 420px;
+    margin: 30px 0 0 400px;
+}
+.footer {
+    width: 510px;
+    height: 180px;
+    margin: 30px 0 0 400px;
+    background-color: brown;
+}
+.block-

@@ -1,0 +1,23 @@
+img{
+    width: 500 px;
+    height: 500 px;
+}
+p{
+    font-size: 35 px;
+    font-weight: 700;
+    color: brown;
+}
+ul li {
+    font-size: 65 px;
+}
+ul li a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+ul{
+    list-style-type: square;
+}
+body{
+    background-color: bisque;
+}
